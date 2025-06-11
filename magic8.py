@@ -1,3 +1,6 @@
+import random
+# Magic 8 Ball program  
+
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
